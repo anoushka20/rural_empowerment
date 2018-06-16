@@ -1,0 +1,124 @@
+<head>
+	<title>Rural Empowerment</title>
+	 <meta charset="utf-8"> 
+	 <meta name="viewport" content="width=device-width, initial-scale=1">
+	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>	
+	 <style>
+		body
+		{   
+			background-color: #bdd2ed;
+		}
+
+		h1
+		{
+			text-align: center;
+			font-family: "Comic Sans MS", cursive, sans-serif;
+			color: black;
+		}
+
+		h2,h3,h4,h5,h6,p,label,a
+		{
+			font-family: "Comic Sans MS", cursive, sans-serif;
+			color: black;
+		}
+
+		p1
+		{
+			font-family: "Comic Sans MS", cursive, sans-serif;
+			color: black;
+		}
+		video {
+    width: 50%;
+    height: auto;
+}
+
+		ul 
+		{
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			background-color: none;
+			
+		}
+
+		li 
+		{
+			float: left;
+		}
+
+		li a 
+		{
+			display: block;
+			color: white;
+			text-align: center;
+			padding: 14px 16px;
+			text-decoration: none;
+		}
+
+		li a:hover 
+		{
+			background-color: white;
+			color: black;
+		}
+
+		input[type=text] 
+		{
+			width: 80%;
+			padding: 5px 5px;
+			margin: 8px 0;
+			box-sizing: border-box;
+			background-color: white;
+			color: black;	
+		}
+		img 
+		{
+			display: block;
+			margin: 0 auto;
+		}
+		div.gallery {
+			margin: 5px;
+			border: 1px solid #ccc;
+			float: left;
+			width: 180px;
+		}
+
+		div.gallery:hover {
+			border: 1px solid #777;
+		}
+
+		div.gallery img {
+			width: 100%;
+			height: auto;
+		}
+		
+		* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+-
+		
+	 </style>
+	</head>
